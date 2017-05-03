@@ -1,0 +1,20 @@
+{
+  "name": "protractor-test",
+  "version": "1.0.0",
+  "description": "testing out protractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor",
+    "selser": "webdriver-manager"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukefitz1/protractor-test.git"
+  },
+  "author": "Luke Fitzgerald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukefitz1/protractor-test/issues"
+  },
+  "homepage": "https://github.com/lukefitz1/protractor-test#readme"
+}
